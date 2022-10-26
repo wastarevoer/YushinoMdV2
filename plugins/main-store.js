@@ -41,7 +41,7 @@ let wibb = `${wktuwib}`
 
 let info = 
 `
-Belum Tau Mau Jual Apa:)
+Kami Menyediakan Jasa Layanan OTP Untuk Semua Aplikasi.
 `
   /*  {title: "🔖 HEMAT", rowId: '.order *Paket:* HEMAT • Sewa', description: 'PRICE: ' + sh + 'k (1 minggu)' },
 	    {title: "🔖 NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sn + 'k (1 bulan)' },
@@ -49,34 +49,34 @@ Belum Tau Mau Jual Apa:)
 	{title: "🔖 PRO", rowId: '.order *Paket:* PRO • Sewa', description: 'PRICE: ' + sp + 'k (4 bulan)' },
 	{title: "🔖 VIP", rowId: '.order *Paket:* VIP • Sewa', description: 'PRICE: ' + sv + 'k (12 bulan)' },*/
 const sections = [{
-title: `⟥⟝⟢⟨ Sᴇᴡᴀ Bᴏᴛ ⟩⟣⟞⟤`,
+title: `${htjava} Menu OTP ✦-------`,
 rows: [
-{title: "⟣⟨ HEMAT ⟩⟢",
+{title: "⟣⟨ OTP 1 ⟩⟢",
 rowId: '.store sewabottt 7 Hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 5 ᴋ : 7 Hᴀʀɪ' },
-{title: "⟣⟨ NORMAL ⟩⟢",
+description: 'Menu OTP 1' },
+{title: "⟣⟨ OTP 2 ⟩⟢",
 rowId: '.store sewabottt 15 Hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 10 ᴋ : 15 Hᴀʀɪ' },
-{title: "⟣⟨ STANDAR ⟩⟢",
+description: 'Menu OTP 2' },
+{title: "⟣⟨ OTP 3 ⟩⟢",
 rowId: '.store sewabottt 30 hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 20 ᴋ : 30 Hᴀʀɪ' },
-{title: "⟣⟨ PRO ⟩⟢",
+description: 'Menu OTP 3' },
+{title: "⟣⟨ OTP 4 ⟩⟢",
 rowId: '.store sewabottt 40 hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 25 ᴋ : 40 Hᴀʀɪ' },
+description: 'Menu OTP 4' },
 ]},
 {
-title: `${htjava} PREMIUM ✦-------`,
+title: `${htjava} Bayar ✦-------`,
 rows: [
-{title: "🌟 HEMAT", 
+{title: "Methode Payment", 
 rowId: '.order *Paket:* HEMAT • Premium', 
-description: 'PRICE: ' + ph + 'k (1 minggu)' },
+description: 'Menu Payment'},
 ]},
 ]
 
 const listMessage = {
   text: info,
-  footer:  `Hᴀʟʟᴏ Wᴇʟᴄᴏᴍᴇ Tᴏ Mʏ Bᴏᴛ Sᴛᴏʀᴇ ${name}\n📆 : ${week} ${weton} ${date}\n⌛: ${wibb}`,
-  title: '⬒ ───⟢⟨ *Mʏ Lɪsᴛ Sᴛᴏʀᴇ* ⟩⟣─── ⬒',
+  footer:  `Kami Melayani Anda 7x24 Jam${name}\n📆 : ${week} ${weton} ${date}\n⌛: ${wibb}`,
+  title: '⬒ ───⟢⟨  *List Store*  ⟩⟣─── ⬒',
   buttonText: "Click Here!",
   sections
 }
