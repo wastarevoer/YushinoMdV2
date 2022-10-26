@@ -22,29 +22,29 @@ let teksnomor = (
 )
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown1 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1])
-let teksbio = `┆⫹⫺ 💌 Nama : Aldi
-┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
+let teksbio = `┆⫹⫺ 💌 Nama :Taasptra
+┆⫹⫺ ✉️ Nama RL :Private
 ┆⫹⫺ ♂️ Gender : Pria
 ┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 16 - 10 - 2007
-┆⫹⫺ 🎨 Umur : 15
+┆⫹⫺ ⏰ Tanggal lahir : ---
+┆⫹⫺ 🎨 Umur : 17
 ┆⫹⫺ 🧮 Kelas : IX
-┆⫹⫺ 🧩 Hobby : 𝙼𝚘𝚍𝚒𝚏𝚒𝚔𝚊𝚜𝚒 𝚙𝚎𝚛𝚊𝚗𝚐𝚔𝚊𝚝 𝚕𝚞𝚗𝚊𝚔
-┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Sumatera Utara
+┆⫹⫺ 🧩 Hobby : Rebahan
+┆⫹⫺ 💬 Sifat : Ramah
+┆⫹⫺ 🗺️ Tinggal : Indonesia, Jawa Barat
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆⫹⫺ 💌 Nama : Aisyah
-┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Wanita
+let teksbio2 = `┆⫹⫺ 💌 Nama : AFLiX
+┆⫹⫺ ✉️ Nama RL : Private
+┆⫹⫺ ♂️ Gender : Pria
 ┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 07 - 05 - 2007
-┆⫹⫺ 🎨 Umur : 15
+┆⫹⫺ ⏰ Tanggal lahir : ---
+┆⫹⫺ 🎨 Umur : 17
 ┆⫹⫺ 🧮 Kelas : IX
 ┆⫹⫺ 🧩 Hobby : Banyak
-┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Bengkulu
+┆⫹⫺ 💬 Sifat : Ramah
+┆⫹⫺ 🗺️ Tinggal : Indonesia, Jawa Barat
 └––––––––––––·•
 `
 
